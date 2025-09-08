@@ -10,9 +10,9 @@ This organization gathers the most popular **unblocked game categories**, includ
 ---
 
 ## 🎮 What You’ll Find Here
-- **[Unblocked Games](./unblocked-games)** – General collection of free unblocked browser games.  
-- **[Unblocked Games 76](./unblocked-games-76)** – The classic and most popular set of unblocked titles.  
-- **[Unblocked Games for School](./unblocked-games-for-school)** – Safe and kid-friendly options for classrooms.  
+- **[Unblocked Games](https://github.com/subjectnotes-unblocked/unblocked-games)** – General collection of free unblocked browser games.  
+- **[Unblocked Games 76](https://github.com/subjectnotes-unblocked/unblocked-games-76)** – The classic and most popular set of unblocked titles.  
+- **[Unblocked Games for School](https://github.com/subjectnotes-unblocked/unblocked-games-for-school)** – Safe and kid-friendly options for classrooms.  
 
 Each repository includes a detailed article (~800 words) with game lists, categories, comparison tables, and FAQs.  
 
