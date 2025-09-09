@@ -27,9 +27,9 @@ Each repository includes a detailed article (~800 words) with game lists, catego
 ---
 
 ## 📌 Explore the Collections
-- 🎮 [Unblocked Games](./unblocked-games)  
-- ⚡ [Unblocked Games 76](./unblocked-games-76)  
-- 📚 [Unblocked Games for School](./unblocked-games-for-school)  
+- 🎮 [Unblocked Games](https://github.com/subjectnotes-unblocked/unblocked-games)  
+- ⚡ [Unblocked Games 76](https://github.com/subjectnotes-unblocked/unblocked-games-76)  
+- 📚 [Unblocked Games for School](https://github.com/subjectnotes-unblocked/unblocked-games-for-school)  
 
 ---
 
