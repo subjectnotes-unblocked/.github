@@ -1,6 +1,6 @@
-<h1><a href="https://edujojo.space">CLICK TO PLAY GAME</a></h1>
+<h1><a href="https://classnotes.online/">CLICK TO PLAY GAME</a></h1>
 
-<a href="https://edujojo.space"><img src="https://1lesson1.email/gamez.png"></a>
+<a href="https://classnotes.online/"><img src="https://1lesson1.email/gamez.png"></a>
 
 
 
